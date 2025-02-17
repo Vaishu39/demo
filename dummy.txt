@@ -1,5 +1,8 @@
 This is dummy file.
+<<<<<<< HEAD
 
 This is important file.
 
 this is duplicate.
+=======
+>>>>>>> parent of 1492ea9 (imporatant txt)
